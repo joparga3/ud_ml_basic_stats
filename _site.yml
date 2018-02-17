@@ -1,0 +1,7 @@
+name: "Basic Stats"
+navbar:
+  title: "Basic Stats"
+  left:
+    - text: "Basic Stats"
+      href: index.html
+
